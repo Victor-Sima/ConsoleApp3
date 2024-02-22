@@ -1,0 +1,3 @@
+Programare,papp,IT
+Siteuri,web,IT
+Mecanic,MCC,mecanica auto

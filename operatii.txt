@@ -1,0 +1,79 @@
+22.02.2024 14:41:01 - Intrare în program
+22.02.2024 14:41:03 - Au fost afisati toti studenti
+22.02.2024 14:41:42 - Sa creat facultatea Programare
+22.02.2024 14:42:04 - Sa creat facultatea Siteuri
+22.02.2024 14:42:48 - Sa creat facultatea Mecanic
+22.02.2024 14:42:53 - Au fost afisate facultatile
+22.02.2024 14:43:56 - Atribuit studentul Sima la facultatea Programare
+22.02.2024 14:45:09 - Atribuit studentul Preida la facultatea Mecanic
+22.02.2024 14:45:57 - Atribuit studentul Onica la facultatea Siteuri
+22.02.2024 14:46:16 - Studentul Onica a absolvit la facultatea Siteuri
+22.02.2024 14:46:41 - Studentul Sima a absolvit la facultatea Programare
+22.02.2024 14:46:53 - Afisare studenti neabsolviti pentru facultatea Mecanic
+22.02.2024 14:47:05 - Afisare studenti absolventi pentru facultatea Programare
+22.02.2024 14:47:10 - Afisare studenti absolventi pentru facultatea Siteuri
+22.02.2024 14:47:13 - Au fost afisati toti studenti
+22.02.2024 14:47:25 - Afisat facultatea pentru studentul cu adresa de email simavictor47
+22.02.2024 14:47:31 - Au fost afisate facultatile
+22.02.2024 14:48:05 - Iesire din program
+22.02.2024 14:49:13 - Intrare în program
+22.02.2024 14:49:31 - Atribuit studentul Preida la facultatea Mecanic
+22.02.2024 15:55:10 - Intrare în program
+22.02.2024 15:55:11 - Au fost afisati toti studenti
+22.02.2024 15:55:38 - Atribuit studentul Sima la facultatea Programare
+22.02.2024 15:56:04 - Studentul Sima a absolvit la facultatea Programare
+22.02.2024 15:57:50 - Atribuit studentul Onica la facultatea Siteuri
+22.02.2024 15:59:46 - Iesire din program
+22.02.2024 16:00:59 - 
+Intrare în program
+22.02.2024 16:01:01 - Au fost afisate facultatile
+22.02.2024 16:01:03 - Au fost afisati toti studenti
+22.02.2024 16:01:16 - Faculatatile au fost afisate dupa domeniul: IT
+22.02.2024 16:01:16 - Faculatatile au fost afisate dupa domeniul: IT
+22.02.2024 16:01:30 - Iesire din program
+Operatia: 
+Intrare în program pe data: 22.02.2024 16:03:24
+Operatia: Au fost afisate facultatile pe data: 22.02.2024 16:03:25
+Operatia: Au fost afisati toti studenti pe data: 22.02.2024 16:03:26
+22.02.2024 16:03:27 - Iesire din program
+Operatia: 
+Intrare în program pe data: 22.02.2024 16:07:21
+Operatia: Au fost afisati toti studenti pe data: 22.02.2024 16:07:22
+Operatia: Au fost afisate facultatile pe data: 22.02.2024 16:07:28
+Operatia: Afisat facultatea pentru studentul cu adresa de email victorsima47 pe data: 22.02.2024 16:07:46
+Inceierea programului, data: 22.02.2024 16:07:54
+Operatia: Intrare în program pe data: 22.02.2024 16:09:40
+Operatia: Au fost afisate facultatile pe data: 22.02.2024 16:09:42
+Operatia: Au fost afisati toti studenti pe data: 22.02.2024 16:09:42
+Inceierea programului, data: 22.02.2024 16:09:45
+
+Operatia: Intrare în program pe data: 22.02.2024 16:10:39
+
+Operatia: Au fost afisate facultatile pe data: 22.02.2024 16:10:40
+
+Operatia: Au fost afisati toti studenti pe data: 22.02.2024 16:10:41
+
+Executiile:
+Intrare în program pe data: 22.02.2024 16:12:08
+
+Executiile:
+Au fost afisati toti studenti pe data: 22.02.2024 16:12:09
+
+Executiile:
+Au fost afisate facultatile pe data: 22.02.2024 16:12:11
+
+Executiile:
+Intrare în program pe data: 22.02.2024 16:13:47
+Au fost afisate facultatile pe data: 22.02.2024 16:13:48
+Au fost afisati toti studenti pe data: 22.02.2024 16:13:48
+Inceierea programului, data: 22.02.2024 16:13:51
+
+Executiile:
+Intrare în program pe data: 22.02.2024 16:14:41
+Afisat facultatea pentru studentul cu adresa de email victorsima47 pe data: 22.02.2024 16:14:54
+Au fost afisate facultatile pe data: 22.02.2024 16:14:56
+Faculatatile au fost afisate dupa domeniul: mecanica auto pe data: 22.02.2024 16:15:13
+
+Executiile:
+Intrare în program pe data: 22.02.2024 16:16:13
+Faculatatile au fost afisate dupa domeniul: mecanica auto pe data: 22.02.2024 16:16:23
